@@ -11,7 +11,7 @@
 
 * commit the changes
  ...
- git commit -m "ABC"
+ git commit -m "first script"
  ...
 
 * push the changes in github/central repo
