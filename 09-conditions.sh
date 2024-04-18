@@ -7,4 +7,6 @@ then
     echo "given number $number is greater than 10"
 else
     echo "given number $NUMBER is less than 10"
-fi     
+fi 
+
+# -gt, -lt, -eq, -ge, le 
