@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "No of variables: $@"
+echo "All variables: $@"
