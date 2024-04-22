@@ -1,20 +1,24 @@
-# shell script
+# Shell Script
 
 **steps:**
-* create a repo in github
-* clone repo in local laptop
-* start developing
-* Add me files in temp area
- ...
- git add <file-name>
- ...
-* commit the changes
- ...
- git commit -m "first script"
- ...
-* push the changes in github/central repo
- ...
- git push -u origin main
- ...
+* Create repo in Github
+* Clone repo in local laptop
+* Start developing
+* Add the files to temp area
+```
+git add <file-name>
+```
+* Commit the changes
+```
+git commit -m "why-you-commited"
+```
+* Push the changes to GitHub/Central repo
+```
+git push -u origin main
+```
 
-**Naming convention: use small case with hypons(-). NO spaces**
+**naming convention: use small case with Hyphons(-). No spaces**
+
+```
+git add . ; git commit -m "some-message"; git push -u origin main
+```
